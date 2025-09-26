@@ -1,0 +1,32 @@
+# Node artifacts
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Environment files
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor folders
+.idea/
+.vscode/
+
+# Optional: Test / coverage
+coverage/
+
+# Large media / temp files
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.tiff

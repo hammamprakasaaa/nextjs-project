@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <sitemap>
+    <loc>https://play8movies.com/sitemap-filter-tahun.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://play8movies.com/sitemap-genre-film.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://play8movies.com/sitemap-genre-serial-tv.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://play8movies.com/sitemap-genre-series.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://play8movies.com/sitemap-movie.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://play8movies.com/sitemap-serial-tv.xml</loc>
+  </sitemap>
+
+</sitemapindex>
